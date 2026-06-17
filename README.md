@@ -17,3 +17,5 @@ Language  : PHP, JavaScript, Python
 Database  : MySQL
 Hobby     : Pixel Art & Coding
 Location  : Indonesia
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,python,github,vscode" /> </p>
