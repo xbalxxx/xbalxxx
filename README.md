@@ -9,7 +9,7 @@
 </div>
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,python,github,vscode" /> </p>
 --------------------------------------------------------------
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" /> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?xbalxxx=USERNAME&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?xbalxxx=USERNAME&theme=tokyonight" /> </p>
 ## 🎮 About Me
 
 ```bash
