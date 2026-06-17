@@ -21,8 +21,6 @@ Location  : Indonesia
 
 ---
 
-## 🎴 Current Status
-
 ```yaml
 Mood:
   - Keep moving forward
