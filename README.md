@@ -8,8 +8,7 @@
 -------------------------------------------------------------
 </div>
 <p align="center"> <img src="https://skillicons.dev/icons?i=php,mysql,js,html,css,bootstrap,python,github,vscode" /> </p>
---------------------------------------------------------------
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?xbalxxx=xbalxxxx&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?xbalxxx=xbalxxx&theme=tokyonight" /> </p>
+
 ## 🎮 About Me
 
 ```bash
