@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;PHP+%7C+MySQL+%7C+JavaScript;Pixel+Art+Lover;Always+Learning+New+Things" />
 
 <p align="center">
-  <a href="https://open.spotify.com/track/ID_LAGU">
+  <a href="https://open.spotify.com/track/4XHijJfABTtUCW3Bp6KFvr?si=bb6dcb5afe9f4d4c">
     <img src="https://i.scdn.co/image/ab67616d0000b273xxxxxxxxxxxxxxxx" width="300">
   </a>
 </p>
