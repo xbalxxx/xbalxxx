@@ -19,4 +19,22 @@ Database  : MySQL
 Hobby     : Pixel Art & Coding
 Location  : Indonesia
 
+---
+
+## 🎴 Current Status
+
+```yaml
+Mood:
+  - Keep moving forward
+  - Trust the process
+  - Build, fail, learn, repeat
+
+Life:
+  Progress: ██████████░░░░░░░░ 50%
+  Coding:   ████████████████░░░ 80%
+  Dreams:   ██████████████████░ 95%
+
+Message:
+  "Not everything needs to be known today."
+
 
